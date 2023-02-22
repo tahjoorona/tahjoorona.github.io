@@ -26,6 +26,6 @@ span {
 
 ul  { margin-top: -1em; } 
 body { background: #0099ff; }
- h1 { background: #0099ff; color: white; font-weight: bold; }
- h4 { background:#0099ff; color: white; font-weight: bold; }
- p { background: #0099ff; color: white; }
+ h1 { background: #0099ff; color: black; font-weight: bold; }
+ h4 { background:#0099ff; color: black; font-weight: bold; }
+ p { background: #0099ff; color: black; }
