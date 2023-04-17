@@ -9,7 +9,7 @@ function draw()
 	ctx.fillRect(50, 50, 50, 50) ;
 }
 
-function draw()
+function d()
 {
 	const dspl = document.getElementById("display") ;
 	ctx = dspl.getContext("2d") ;	
